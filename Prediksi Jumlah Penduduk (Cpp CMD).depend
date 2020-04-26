@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587279898 source:c:\users\andri\documents\project\ta komputasi numerik\prediksi jumlah penduduk (cpp cmd)\main.cpp
+	<iostream>
+	<conio.h>
+
